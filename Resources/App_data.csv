@@ -1,0 +1,501 @@
+app_name,version,cross_compatible?,country_built,randomness
+Job,0.1.0,FALSE,France,tempus vel pede morbi porttitor lorem id ligula suspendisse ornare consequat lectus
+Sonair,6.85,FALSE,Germany,nisl venenatis lacinia aenean sit amet justo morbi ut odio cras mi pede malesuada in imperdiet et commodo vulputate justo
+Fintone,1.9,FALSE,France,a odio in hac habitasse platea dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis
+Tres-Zap,5.5,TRUE,France,pede posuere nonummy integer non velit donec diam neque vestibulum eget vulputate
+Tin,7.4.2,FALSE,France,lectus pellentesque at nulla suspendisse potenti cras in purus eu magna vulputate luctus cum
+Pannier,9.47,TRUE,Germany,proin risus praesent lectus vestibulum quam sapien varius ut blandit non interdum in ante vestibulum ante ipsum primis
+Stim,9.47,TRUE,France,dolor vel est donec odio justo sollicitudin ut suscipit a feugiat et eros vestibulum ac est lacinia
+Alphazap,0.91,TRUE,France,gravida sem praesent id massa id nisl venenatis lacinia aenean sit amet justo morbi ut
+Matsoft,6.1.3,TRUE,France,nulla ac enim in tempor turpis nec euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula nec
+Aerified,6.8,FALSE,France,velit id pretium iaculis diam erat fermentum justo nec condimentum neque sapien placerat
+Vagram,6.3,FALSE,France,congue eget semper rutrum nulla nunc purus phasellus in felis donec semper sapien a
+Tin,2.9,TRUE,France,vitae mattis nibh ligula nec sem duis aliquam convallis nunc
+Y-find,6.04,TRUE,France,euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula nec sem duis aliquam convallis nunc proin at turpis
+Sub-Ex,8.7.4,FALSE,France,at velit eu est congue elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis
+Voyatouch,0.92,FALSE,France,amet justo morbi ut odio cras mi pede malesuada in imperdiet et commodo vulputate justo in blandit ultrices enim
+Zamit,8.9.5,TRUE,France,platea dictumst etiam faucibus cursus urna ut tellus nulla ut erat id mauris vulputate
+Ronstring,0.69,FALSE,France,erat fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget
+Zaam-Dox,5.8,FALSE,France,duis aliquam convallis nunc proin at turpis a pede posuere nonummy integer non
+Alphazap,0.96,FALSE,France,nunc vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere
+Alphazap,0.84,TRUE,France,justo morbi ut odio cras mi pede malesuada in imperdiet et commodo vulputate justo in blandit ultrices enim lorem
+Zoolab,0.27,TRUE,France,aenean lectus pellentesque eget nunc donec quis orci eget orci vehicula condimentum curabitur in libero ut
+Home Ing,0.32,TRUE,France,augue vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id massa id nisl
+Bitchip,0.98,FALSE,France,maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida nisi at nibh in
+Duobam,0.2.9,TRUE,United Kingdom,dignissim vestibulum vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere
+Treeflex,6.43,FALSE,France,aliquam erat volutpat in congue etiam justo etiam pretium iaculis justo in hac habitasse platea dictumst
+Domainer,3.1,FALSE,Germany,quam suspendisse potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum aliquam non mauris morbi
+Flexidy,7.3,FALSE,France,et eros vestibulum ac est lacinia nisi venenatis tristique fusce congue diam id ornare imperdiet sapien urna pretium nisl ut
+Sub-Ex,0.1.4,FALSE,France,montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id massa id nisl
+Bitchip,0.83,TRUE,France,sit amet eros suspendisse accumsan tortor quis turpis sed ante vivamus tortor duis mattis egestas
+Temp,5,TRUE,France,luctus et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur
+Lotlux,2.7.9,FALSE,France,ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae donec pharetra magna
+It,0.72,TRUE,United Kingdom,purus eu magna vulputate luctus cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum
+Sonair,0.76,FALSE,France,nulla sed accumsan felis ut at dolor quis odio consequat varius integer ac leo pellentesque ultrices mattis odio donec vitae
+Transcof,8.7.9,TRUE,France,nec nisi volutpat eleifend donec ut dolor morbi vel lectus in quam fringilla rhoncus mauris enim leo rhoncus
+Stringtough,0.8.7,FALSE,France,venenatis turpis enim blandit mi in porttitor pede justo eu massa donec dapibus duis at
+Biodex,5.55,TRUE,France,libero convallis eget eleifend luctus ultricies eu nibh quisque id justo sit amet sapien
+Voyatouch,6.0.8,TRUE,France,ut at dolor quis odio consequat varius integer ac leo pellentesque ultrices mattis odio donec vitae nisi nam
+Cardify,0.31,FALSE,France,purus phasellus in felis donec semper sapien a libero nam
+Asoka,1.7,TRUE,Germany,nibh in lectus pellentesque at nulla suspendisse potenti cras in purus eu magna vulputate luctus cum
+Treeflex,8.5,FALSE,France,bibendum felis sed interdum venenatis turpis enim blandit mi in porttitor pede justo eu massa donec dapibus duis
+Cardify,0.41,FALSE,France,nullam porttitor lacus at turpis donec posuere metus vitae ipsum aliquam non mauris
+Opela,2.52,FALSE,France,eu est congue elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam
+Cardguard,0.75,FALSE,France,nulla ac enim in tempor turpis nec euismod scelerisque quam turpis adipiscing
+Bamity,4.17,TRUE,Germany,sem duis aliquam convallis nunc proin at turpis a pede posuere nonummy integer non velit donec diam neque vestibulum
+Job,6.41,TRUE,France,pharetra magna ac consequat metus sapien ut nunc vestibulum ante ipsum primis in
+Asoka,1.4.9,TRUE,France,velit vivamus vel nulla eget eros elementum pellentesque quisque porta volutpat erat quisque erat eros viverra eget congue eget semper
+Overhold,5.9,FALSE,Germany,rutrum nulla nunc purus phasellus in felis donec semper sapien a libero nam dui proin leo
+Tempsoft,6.3.0,FALSE,France,congue diam id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed augue aliquam erat volutpat in congue
+Ventosanzap,0.4.4,FALSE,France,interdum mauris non ligula pellentesque ultrices phasellus id sapien in
+Job,3.89,TRUE,France,quis libero nullam sit amet turpis elementum ligula vehicula consequat morbi a ipsum
+Fixflex,0.2.0,TRUE,France,dolor vel est donec odio justo sollicitudin ut suscipit a
+Zontrax,6.7.6,TRUE,France,vivamus in felis eu sapien cursus vestibulum proin eu mi
+Fix San,0.8.2,TRUE,France,gravida nisi at nibh in hac habitasse platea dictumst aliquam augue quam
+Viva,9.8,TRUE,Germany,etiam vel augue vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id massa id nisl venenatis lacinia aenean
+Zoolab,5.28,TRUE,France,consectetuer adipiscing elit proin risus praesent lectus vestibulum quam sapien varius
+Biodex,0.6.9,FALSE,Germany,magna ac consequat metus sapien ut nunc vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae
+Y-find,2.7.8,TRUE,France,eleifend donec ut dolor morbi vel lectus in quam fringilla rhoncus mauris enim leo
+Transcof,9.94,FALSE,France,interdum mauris ullamcorper purus sit amet nulla quisque arcu libero rutrum ac lobortis vel dapibus at diam nam tristique
+Konklab,0.79,FALSE,France,ut dolor morbi vel lectus in quam fringilla rhoncus mauris enim leo
+Sonair,4.9,TRUE,France,curabitur in libero ut massa volutpat convallis morbi odio odio elementum
+Ventosanzap,0.91,FALSE,France,maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas leo odio
+Bamity,3.5,FALSE,France,lobortis est phasellus sit amet erat nulla tempus vivamus in felis eu sapien cursus
+Prodder,7.4.6,FALSE,France,mauris enim leo rhoncus sed vestibulum sit amet cursus id turpis integer aliquet massa id lobortis convallis
+Konklux,0.34,FALSE,France,quam turpis adipiscing lorem vitae mattis nibh ligula nec sem duis aliquam
+Cardify,0.48,TRUE,France,eget massa tempor convallis nulla neque libero convallis eget eleifend luctus ultricies eu nibh quisque id
+Overhold,7.7,TRUE,France,pulvinar lobortis est phasellus sit amet erat nulla tempus vivamus in
+Y-Solowarm,5.08,FALSE,France,ut at dolor quis odio consequat varius integer ac leo pellentesque ultrices mattis odio donec vitae nisi nam ultrices libero
+Tempsoft,9.6,FALSE,France,dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem quisque ut
+Zamit,0.78,TRUE,United Kingdom,mi integer ac neque duis bibendum morbi non quam nec dui luctus rutrum nulla tellus in sagittis
+Trippledex,2.3,FALSE,France,donec posuere metus vitae ipsum aliquam non mauris morbi non lectus aliquam sit amet diam in magna bibendum imperdiet nullam
+Flowdesk,8.5.2,FALSE,France,erat vestibulum sed magna at nunc commodo placerat praesent blandit nam nulla integer pede justo lacinia
+Alpha,3.97,TRUE,France,diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante ipsum primis in faucibus
+alphazap ,2.79,FALSE,France,phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at vulputate vitae nisl aenean
+Tampflex,7.7.4,FALSE,France,lacinia eget tincidunt eget tempus vel pede morbi porttitor lorem id ligula suspendisse
+Cookley,6.0.8,TRUE,United Kingdom,sollicitudin ut suscipit a feugiat et eros vestibulum ac est lacinia nisi venenatis tristique fusce congue
+Greenlam,0.87,FALSE,France,congue diam id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed
+Domainer,0.1.8,FALSE,France,cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis sapien sapien non
+Subin,8.4,FALSE,France,libero quis orci nullam molestie nibh in lectus pellentesque at nulla suspendisse potenti cras
+Opela,1.6.3,TRUE,France,semper porta volutpat quam pede lobortis ligula sit amet eleifend pede libero
+Stronghold,0.65,FALSE,France,curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus at turpis
+Lotlux,0.11,TRUE,France,luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida nisi at nibh
+Bitchip,1.4.4,TRUE,France,quis augue luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida nisi
+Konklux,9.03,TRUE,United Kingdom,vivamus in felis eu sapien cursus vestibulum proin eu mi nulla ac enim in tempor turpis
+Trippledex,3.27,TRUE,France,et magnis dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque
+Voyatouch,0.4.5,TRUE,France,commodo placerat praesent blandit nam nulla integer pede justo lacinia eget tincidunt eget tempus vel pede
+Tin,0.1.5,FALSE,France,et ultrices posuere cubilia curae nulla dapibus dolor vel est donec odio justo sollicitudin
+Redhold,7.9,TRUE,France,aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi eu
+Voltsillam,0.6.0,FALSE,France,consequat in consequat ut nulla sed accumsan felis ut at dolor
+Biodex,0.33,TRUE,France,vestibulum proin eu mi nulla ac enim in tempor turpis nec euismod scelerisque
+Rank,0.92,TRUE,France,phasellus sit amet erat nulla tempus vivamus in felis eu sapien cursus vestibulum proin eu mi nulla ac enim
+Alpha,5.5,TRUE,France,a pede posuere nonummy integer non velit donec diam neque vestibulum
+Duobam,0.63,FALSE,France,ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae duis faucibus accumsan
+Toughjoyfax,2.59,TRUE,Germany,id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed augue aliquam
+Keylex,3.9.5,TRUE,France,luctus et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin
+Voltsillam,6.8.8,FALSE,France,enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum
+Daltfresh,0.7.7,TRUE,France,nunc viverra dapibus nulla suscipit ligula in lacus curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus
+Opela,9.2,FALSE,France,metus arcu adipiscing molestie hendrerit at vulputate vitae nisl aenean lectus pellentesque eget nunc donec quis orci eget
+Home Ing,5.9.1,TRUE,France,pede morbi porttitor lorem id ligula suspendisse ornare consequat lectus in est
+Regrant,0.72,FALSE,France,sit amet sem fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum venenatis turpis enim blandit mi
+Keylex,1.3.7,FALSE,France,proin eu mi nulla ac enim in tempor turpis nec euismod scelerisque quam turpis adipiscing lorem vitae mattis
+Matsoft,6.1,TRUE,France,sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed sagittis nam
+Wrapsafe,0.75,FALSE,Germany,ultrices vel augue vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere
+Zoolab,5.2.3,TRUE,France,non velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget eros elementum pellentesque quisque porta
+It,7.18,TRUE,France,purus sit amet nulla quisque arcu libero rutrum ac lobortis vel dapibus at diam nam tristique tortor eu
+Treeflex,0.67,FALSE,France,at ipsum ac tellus semper interdum mauris ullamcorper purus sit amet nulla quisque arcu libero rutrum ac
+Home Ing,0.5.6,FALSE,France,integer ac leo pellentesque ultrices mattis odio donec vitae nisi
+Tresom,8.39,TRUE,France,non mi integer ac neque duis bibendum morbi non quam nec dui luctus rutrum nulla tellus in
+Tampflex,6.8.9,FALSE,France,sapien arcu sed augue aliquam erat volutpat in congue etiam justo etiam pretium
+Konklux,8.26,FALSE,France,magna ac consequat metus sapien ut nunc vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia
+Namfix,4.24,FALSE,Germany,orci mauris lacinia sapien quis libero nullam sit amet turpis elementum ligula vehicula consequat
+Prodder,8.35,FALSE,France,lacus purus aliquet at feugiat non pretium quis lectus suspendisse potenti in eleifend quam a odio in
+Regrant,9.27,FALSE,France,posuere metus vitae ipsum aliquam non mauris morbi non lectus aliquam sit amet diam
+Sub-Ex,9.5,FALSE,France,euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula nec sem duis
+Wrapsafe,3.7,FALSE,France,mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum
+Fix San,2.4.6,TRUE,France,tempus vel pede morbi porttitor lorem id ligula suspendisse ornare consequat lectus
+Sub-ex,0.1.4,FALSE,France,amet eros suspendisse accumsan tortor quis turpis sed ante vivamus tortor
+Solarbreeze,0.3,TRUE,France,pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis sapien sapien non
+Sonair,0.8.3,FALSE,France,nec sem duis aliquam convallis nunc proin at turpis a pede posuere nonummy integer non velit donec
+Bitchip,6.08,TRUE,France,aenean lectus pellentesque eget nunc donec quis orci eget orci vehicula condimentum curabitur in libero ut massa volutpat convallis
+Trippledex,0.1.2,TRUE,France,gravida sem praesent id massa id nisl venenatis lacinia aenean sit amet justo morbi
+Tampflex,7.8.4,FALSE,United Kingdom,id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed augue aliquam erat volutpat in congue etiam
+Hatity,2.2.6,TRUE,France,sodales sed tincidunt eu felis fusce posuere felis sed lacus morbi
+Hatity,0.8.5,FALSE,France,platea dictumst etiam faucibus cursus urna ut tellus nulla ut erat id mauris vulputate elementum nullam varius nulla
+Subin,3.5,FALSE,France,ac diam cras pellentesque volutpat dui maecenas tristique est et tempus semper est quam pharetra magna
+Stim,0.97,TRUE,France,pede ac diam cras pellentesque volutpat dui maecenas tristique est et tempus semper est quam pharetra magna ac consequat
+Home Ing,9.68,FALSE,France,vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae nulla dapibus dolor vel est donec odio
+Stringtough,0.1.0,TRUE,France,vehicula consequat morbi a ipsum integer a nibh in quis justo maecenas rhoncus
+Fintone,0.6.7,TRUE,France,suspendisse potenti cras in purus eu magna vulputate luctus cum sociis natoque penatibus et magnis dis parturient montes nascetur
+Solarbreeze,0.4.3,FALSE,Germany,volutpat erat quisque erat eros viverra eget congue eget semper rutrum nulla nunc purus phasellus in felis donec semper sapien
+Cookley,8.54,FALSE,France,sapien urna pretium nisl ut volutpat sapien arcu sed augue
+Toughjoyfax,0.53,TRUE,France,gravida nisi at nibh in hac habitasse platea dictumst aliquam augue quam sollicitudin vitae
+Lotstring,9.0.7,FALSE,France,sem praesent id massa id nisl venenatis lacinia aenean sit amet justo morbi ut odio cras mi pede malesuada in
+Toughjoyfax,6.84,TRUE,France,enim in tempor turpis nec euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh
+Namfix,4.93,TRUE,France,justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse
+Opela,8.9,TRUE,France,convallis eget eleifend luctus ultricies eu nibh quisque id justo sit amet sapien
+Latlux,0.7.7,TRUE,France,quam pede lobortis ligula sit amet eleifend pede libero quis orci
+Trippledex,4.2,FALSE,France,diam erat fermentum justo nec condimentum neque sapien placerat ante nulla justo
+Overhold,1.2,FALSE,France,tristique in tempus sit amet sem fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum venenatis
+Tin,0.7.2,FALSE,France,ac tellus semper interdum mauris ullamcorper purus sit amet nulla quisque arcu libero rutrum ac lobortis
+Stronghold,8.23,FALSE,France,bibendum felis sed interdum venenatis turpis enim blandit mi in porttitor
+Bitwolf,0.5.6,TRUE,France,duis mattis egestas metus aenean fermentum donec ut mauris eget massa tempor convallis nulla neque libero convallis eget eleifend luctus
+Zontrax,0.6.1,TRUE,France,consequat dui nec nisi volutpat eleifend donec ut dolor morbi vel lectus in quam
+Konklab,5.2.0,TRUE,France,donec dapibus duis at velit eu est congue elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium
+Job,4.2.0,FALSE,France,mi in porttitor pede justo eu massa donec dapibus duis at velit eu est congue elementum in hac
+Lotstring,1.4,TRUE,United Kingdom,in faucibus orci luctus et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat dui nec nisi
+Rank,8.62,TRUE,France,sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum
+Tin,0.5.1,FALSE,France,duis mattis egestas metus aenean fermentum donec ut mauris eget massa tempor convallis
+Alphazap,0.5.2,FALSE,France,id massa id nisl venenatis lacinia aenean sit amet justo morbi ut
+Zoolab,8.5,TRUE,France,et eros vestibulum ac est lacinia nisi venenatis tristique fusce congue diam id ornare imperdiet sapien urna pretium
+Zoolab,8.53,FALSE,France,blandit lacinia erat vestibulum sed magna at nunc commodo placerat praesent blandit nam nulla integer pede justo lacinia
+Y-find,4.0.4,FALSE,France,pellentesque at nulla suspendisse potenti cras in purus eu magna vulputate luctus cum sociis natoque penatibus et magnis
+Regrant,0.1.0,FALSE,United Kingdom,morbi a ipsum integer a nibh in quis justo maecenas rhoncus aliquam lacus
+Domainer,3.38,TRUE,France,at feugiat non pretium quis lectus suspendisse potenti in eleifend quam a odio in hac habitasse
+Latlux,0.64,TRUE,France,at nibh in hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt
+Sub-Ex,0.2.9,TRUE,France,nulla nisl nunc nisl duis bibendum felis sed interdum venenatis turpis enim blandit mi in porttitor pede justo
+Alpha,9.9,FALSE,France,interdum mauris non ligula pellentesque ultrices phasellus id sapien in sapien iaculis
+Stim,0.15,FALSE,France,ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet
+Gembucket,0.2,TRUE,France,nisi venenatis tristique fusce congue diam id ornare imperdiet sapien urna
+Job,8.3,TRUE,France,vivamus in felis eu sapien cursus vestibulum proin eu mi nulla
+It,3.78,FALSE,France,felis fusce posuere felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl
+Y-Solowarm,7.8.6,FALSE,France,luctus ultricies eu nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus orci
+Tempsoft,0.65,TRUE,France,praesent id massa id nisl venenatis lacinia aenean sit amet justo morbi ut odio cras mi pede malesuada in
+Lotstring,0.73,FALSE,France,dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem quisque ut erat
+Voyatouch,8.7,TRUE,France,mi nulla ac enim in tempor turpis nec euismod scelerisque
+Overhold,5.8.1,TRUE,France,leo odio condimentum id luctus nec molestie sed justo pellentesque viverra pede ac diam cras pellentesque
+Aerified,0.95,FALSE,France,est risus auctor sed tristique in tempus sit amet sem fusce consequat
+Quo Lux,5.6,FALSE,France,donec quis orci eget orci vehicula condimentum curabitur in libero ut massa volutpat convallis morbi odio odio elementum eu
+Bitwolf,6.73,FALSE,France,pretium quis lectus suspendisse potenti in eleifend quam a odio in hac
+Zathin,2.97,FALSE,France,quis lectus suspendisse potenti in eleifend quam a odio in hac habitasse platea dictumst
+Fix San,2.64,FALSE,Germany,dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida
+Stringtough,0.3.4,FALSE,Germany,placerat ante nulla justo aliquam quis turpis eget elit sodales
+Andalax,9.6.9,TRUE,France,sit amet nunc viverra dapibus nulla suscipit ligula in lacus curabitur at ipsum ac
+Subin,3.5,TRUE,France,eu felis fusce posuere felis sed lacus morbi sem mauris
+Holdlamis,4.6.8,TRUE,France,nunc donec quis orci eget orci vehicula condimentum curabitur in libero ut massa volutpat convallis
+Subin,0.7.3,TRUE,France,donec semper sapien a libero nam dui proin leo odio porttitor id consequat in consequat
+Aerified,8.7,TRUE,France,libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla
+Gembucket,0.4.8,FALSE,France,sed ante vivamus tortor duis mattis egestas metus aenean fermentum donec ut mauris eget massa
+Gembucket,0.6,TRUE,France,quis turpis sed ante vivamus tortor duis mattis egestas metus aenean
+Bamity,9.0.2,FALSE,France,turpis elementum ligula vehicula consequat morbi a ipsum integer a nibh in
+Flexidy,0.5.6,TRUE,France,eros vestibulum ac est lacinia nisi venenatis tristique fusce congue diam id ornare imperdiet
+Sub-Ex,1.5.2,FALSE,France,molestie nibh in lectus pellentesque at nulla suspendisse potenti cras in purus eu magna vulputate luctus cum sociis natoque penatibus
+Biodex,4.7.6,TRUE,France,at nunc commodo placerat praesent blandit nam nulla integer pede
+Tin,7.9.3,FALSE,France,proin at turpis a pede posuere nonummy integer non velit donec diam neque
+Sonsing,0.6.4,FALSE,France,ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae duis faucibus accumsan odio
+Veribet,0.4.1,FALSE,France,mauris sit amet eros suspendisse accumsan tortor quis turpis sed ante vivamus tortor
+Tempsoft,0.8.5,FALSE,Germany,augue vestibulum rutrum rutrum neque aenean auctor gravida sem praesent
+Regrant,0.5,TRUE,France,ac consequat metus sapien ut nunc vestibulum ante ipsum primis in faucibus orci luctus et ultrices
+Flexidy,0.93,FALSE,France,nam congue risus semper porta volutpat quam pede lobortis ligula sit amet
+It,0.7.3,FALSE,France,habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum
+Stronghold,0.6.3,TRUE,France,integer aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi eu orci mauris lacinia sapien
+Veribet,0.3.3,TRUE,France,in hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo
+Vagram,8.23,TRUE,France,turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan
+Andalax,3.4.2,FALSE,France,aliquam sit amet diam in magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis fusce posuere
+Subin,0.61,TRUE,France,dui vel sem sed sagittis nam congue risus semper porta volutpat quam pede lobortis ligula
+Namfix,4.5,FALSE,France,luctus cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque
+Duobam,0.9.1,TRUE,France,justo pellentesque viverra pede ac diam cras pellentesque volutpat dui maecenas tristique est et tempus semper est
+Fixflex,9.54,TRUE,France,sit amet erat nulla tempus vivamus in felis eu sapien cursus vestibulum proin eu mi nulla ac
+Asoka,5.6,TRUE,France,vestibulum quam sapien varius ut blandit non interdum in ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices
+Prodder,0.9.8,TRUE,France,velit id pretium iaculis diam erat fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam
+Viva,2.86,FALSE,France,rutrum nulla nunc purus phasellus in felis donec semper sapien a libero nam dui proin
+Solarbreeze,0.41,FALSE,France,pretium quis lectus suspendisse potenti in eleifend quam a odio in hac habitasse platea dictumst maecenas ut massa
+Holdlamis,0.6.8,TRUE,France,vestibulum sit amet cursus id turpis integer aliquet massa id
+Keylex,0.46,TRUE,France,justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus orci luctus et
+Tin,0.98,FALSE,France,vestibulum sed magna at nunc commodo placerat praesent blandit nam nulla integer pede justo lacinia
+Span,5.3.7,TRUE,France,erat nulla tempus vivamus in felis eu sapien cursus vestibulum proin eu mi nulla ac enim in
+Otcom,0.5,FALSE,France,eget nunc donec quis orci eget orci vehicula condimentum curabitur in libero
+Sub-Ex,8.28,FALSE,France,ut suscipit a feugiat et eros vestibulum ac est lacinia
+Cardify,8.9,TRUE,France,mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum aliquam
+Transcof,4.5.4,TRUE,France,in faucibus orci luctus et ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam
+Overhold,0.81,TRUE,France,vestibulum velit id pretium iaculis diam erat fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam
+Treeflex,1.9,FALSE,France,vivamus tortor duis mattis egestas metus aenean fermentum donec ut mauris eget massa tempor convallis nulla neque libero
+Bigtax,4.81,TRUE,France,consequat dui nec nisi volutpat eleifend donec ut dolor morbi vel lectus in
+Overhold,4.1,FALSE,France,aliquet ultrices erat tortor sollicitudin mi sit amet lobortis sapien sapien
+Ronstring,0.3,FALSE,France,integer ac neque duis bibendum morbi non quam nec dui luctus rutrum
+Zamit,6.54,TRUE,France,tincidunt eu felis fusce posuere felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed
+Fixflex,0.1.2,FALSE,France,lorem quisque ut erat curabitur gravida nisi at nibh in hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer
+Bytecard,4.7,FALSE,France,sapien non mi integer ac neque duis bibendum morbi non quam nec dui
+Voltsillam,0.35,FALSE,France,nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla elit ac nulla sed vel enim
+Alpha,0.81,TRUE,France,faucibus orci luctus et ultrices posuere cubilia curae mauris viverra diam vitae quam
+Redhold,1.9,FALSE,France,vel augue vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae
+Voltsillam,0.24,FALSE,Germany,dolor sit amet consectetuer adipiscing elit proin risus praesent lectus vestibulum
+Alphazap,3.7,TRUE,France,lacus at turpis donec posuere metus vitae ipsum aliquam non mauris morbi non lectus
+Ronstring,7,FALSE,France,dictumst etiam faucibus cursus urna ut tellus nulla ut erat id mauris vulputate elementum nullam
+Sub-Ex,2.23,TRUE,France,nulla eget eros elementum pellentesque quisque porta volutpat erat quisque
+Fix San,0.82,FALSE,France,vel sem sed sagittis nam congue risus semper porta volutpat
+Keylex,1.4,TRUE,France,sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed
+Tin,0.35,FALSE,France,curae duis faucibus accumsan odio curabitur convallis duis consequat dui nec nisi volutpat
+Voyatouch,0.5.7,TRUE,France,ut odio cras mi pede malesuada in imperdiet et commodo vulputate justo in blandit ultrices enim lorem ipsum dolor sit
+Voltsillam,5.7.2,TRUE,France,quis orci nullam molestie nibh in lectus pellentesque at nulla suspendisse potenti cras in purus eu magna vulputate luctus cum
+Konklux,7.36,TRUE,France,suscipit a feugiat et eros vestibulum ac est lacinia nisi venenatis tristique fusce congue diam id ornare imperdiet sapien
+Y-Solowarm,1,FALSE,France,phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at vulputate vitae nisl aenean
+Ventosanzap,0.52,TRUE,France,pulvinar lobortis est phasellus sit amet erat nulla tempus vivamus in felis
+Sub-Ex,8.7.3,FALSE,France,ultrices posuere cubilia curae nulla dapibus dolor vel est donec
+Wrapsafe,6.7.6,TRUE,France,risus praesent lectus vestibulum quam sapien varius ut blandit non interdum in ante vestibulum ante ipsum primis
+Overhold,4.37,TRUE,France,feugiat non pretium quis lectus suspendisse potenti in eleifend quam a odio in hac habitasse platea dictumst maecenas ut massa
+Daltfresh,4.4,TRUE,France,turpis adipiscing lorem vitae mattis nibh ligula nec sem duis aliquam convallis
+Holdlamis,0.9.8,FALSE,France,feugiat et eros vestibulum ac est lacinia nisi venenatis tristique fusce congue diam id ornare
+Trippledex,9.4,TRUE,France,sit amet erat nulla tempus vivamus in felis eu sapien
+Asoka,5.2,FALSE,France,turpis nec euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula nec sem duis aliquam convallis nunc proin
+Tempsoft,5.47,TRUE,France,et eros vestibulum ac est lacinia nisi venenatis tristique fusce congue diam id ornare imperdiet sapien urna pretium nisl
+Matsoft,1.68,TRUE,United Kingdom,nullam molestie nibh in lectus pellentesque at nulla suspendisse potenti cras in purus
+Greenlam,9.4,FALSE,France,vel nulla eget eros elementum pellentesque quisque porta volutpat erat quisque
+Tempsoft,4.41,TRUE,United Kingdom,neque duis bibendum morbi non quam nec dui luctus rutrum nulla tellus in sagittis dui vel
+Viva,7.3,FALSE,France,et ultrices posuere cubilia curae nulla dapibus dolor vel est donec odio justo sollicitudin ut suscipit a feugiat et
+Redhold,6.15,FALSE,France,aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed sagittis
+Stronghold,0.9.9,TRUE,France,pellentesque ultrices mattis odio donec vitae nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper
+Tres-Zap,8.1.6,TRUE,France,a ipsum integer a nibh in quis justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet
+Opela,5,FALSE,France,porta volutpat quam pede lobortis ligula sit amet eleifend pede libero quis orci nullam molestie
+Alpha,0.66,TRUE,France,adipiscing molestie hendrerit at vulputate vitae nisl aenean lectus pellentesque eget nunc donec quis orci eget
+Job,7.64,TRUE,France,turpis sed ante vivamus tortor duis mattis egestas metus aenean fermentum
+Treeflex,6.5.9,TRUE,France,ultrices erat tortor sollicitudin mi sit amet lobortis sapien sapien non
+Namfix,4.0.1,TRUE,France,consequat nulla nisl nunc nisl duis bibendum felis sed interdum venenatis turpis enim blandit mi in porttitor pede justo eu
+Tempsoft,0.78,FALSE,France,vel enim sit amet nunc viverra dapibus nulla suscipit ligula in lacus curabitur at ipsum ac
+Lotlux,0.75,TRUE,France,natoque penatibus et magnis dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor
+Bigtax,0.78,TRUE,France,sed accumsan felis ut at dolor quis odio consequat varius integer ac leo pellentesque ultrices mattis odio donec vitae
+Lotlux,0.29,TRUE,France,habitasse platea dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur
+Bytecard,4.8,FALSE,France,vulputate luctus cum sociis natoque penatibus et magnis dis parturient montes
+It,1.7,FALSE,France,odio odio elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit
+Solarbreeze,0.84,TRUE,France,adipiscing lorem vitae mattis nibh ligula nec sem duis aliquam convallis
+Tresom,0.3,FALSE,France,donec vitae nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit
+Otcom,1.5,FALSE,France,eleifend luctus ultricies eu nibh quisque id justo sit amet sapien dignissim
+Ventosanzap,3.3,FALSE,France,velit vivamus vel nulla eget eros elementum pellentesque quisque porta volutpat erat quisque erat eros viverra eget congue eget semper
+Flowdesk,0.38,TRUE,United Kingdom,vitae consectetuer eget rutrum at lorem integer tincidunt ante vel ipsum praesent blandit lacinia
+Daltfresh,0.2.6,TRUE,France,sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante vel ipsum praesent blandit lacinia
+Aerified,0.1.9,TRUE,France,porttitor lorem id ligula suspendisse ornare consequat lectus in est risus auctor sed tristique in tempus sit amet sem
+Tampflex,4.1,TRUE,France,sapien quis libero nullam sit amet turpis elementum ligula vehicula consequat morbi a ipsum integer a nibh in quis justo
+Tin,3.2,FALSE,France,facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus at
+Regrant,0.54,FALSE,France,in quis justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas leo odio
+Trippledex,6.8,FALSE,Germany,nunc proin at turpis a pede posuere nonummy integer non velit donec diam neque vestibulum eget vulputate ut ultrices vel
+Ronstring,0.2.0,FALSE,France,dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo nec
+Kanlam,0.3.0,FALSE,France,nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus orci luctus et ultrices
+Fintone,0.68,FALSE,France,consequat ut nulla sed accumsan felis ut at dolor quis odio consequat
+Holdlamis,5,TRUE,Germany,nisl duis ac nibh fusce lacus purus aliquet at feugiat non pretium quis lectus suspendisse potenti in eleifend
+Voyatouch,7.7.4,TRUE,France,ut blandit non interdum in ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia
+Zoolab,7.5.2,TRUE,France,non ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at
+Rank,0.21,FALSE,France,nunc viverra dapibus nulla suscipit ligula in lacus curabitur at
+Tres-Zap,9.9,TRUE,France,leo maecenas pulvinar lobortis est phasellus sit amet erat nulla tempus vivamus in
+Konklab,0.77,FALSE,France,nulla sed vel enim sit amet nunc viverra dapibus nulla suscipit ligula in
+Duobam,7.6.1,FALSE,France,porta volutpat erat quisque erat eros viverra eget congue eget semper rutrum nulla nunc purus phasellus in felis donec
+Y-find,0.3.2,TRUE,France,neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia
+Ventosanzap,5.9,TRUE,France,pede ullamcorper augue a suscipit nulla elit ac nulla sed vel enim sit amet nunc viverra dapibus nulla suscipit
+Alpha,5.4,TRUE,France,volutpat dui maecenas tristique est et tempus semper est quam pharetra magna
+Bytecard,4.6,TRUE,France,turpis integer aliquet massa id lobortis convallis tortor risus dapibus
+Job,5.8.7,FALSE,France,iaculis justo in hac habitasse platea dictumst etiam faucibus cursus urna
+Redhold,2.19,FALSE,France,congue etiam justo etiam pretium iaculis justo in hac habitasse platea dictumst etiam faucibus cursus urna ut tellus nulla ut
+Stim,3.16,TRUE,United Kingdom,pede libero quis orci nullam molestie nibh in lectus pellentesque
+Zontrax,0.4.3,TRUE,France,in libero ut massa volutpat convallis morbi odio odio elementum eu interdum eu tincidunt in leo
+Voltsillam,1.1.7,TRUE,France,in leo maecenas pulvinar lobortis est phasellus sit amet erat nulla tempus vivamus in felis eu sapien cursus vestibulum proin
+Subin,1.61,FALSE,France,eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis
+Cardify,2.0.9,TRUE,France,libero convallis eget eleifend luctus ultricies eu nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante
+Wrapsafe,7.51,TRUE,France,dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum
+Wrapsafe,0.43,FALSE,France,aenean sit amet justo morbi ut odio cras mi pede malesuada
+Bamity,7,FALSE,France,metus sapien ut nunc vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae mauris viverra diam
+Ventosanzap,5.61,FALSE,France,consectetuer adipiscing elit proin risus praesent lectus vestibulum quam sapien varius ut blandit non interdum in ante vestibulum ante
+Toughjoyfax,0.33,TRUE,France,maecenas pulvinar lobortis est phasellus sit amet erat nulla tempus vivamus in felis eu sapien cursus vestibulum proin
+Flexidy,0.7.5,FALSE,France,posuere felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet
+Bitwolf,2.1,FALSE,Germany,sit amet nulla quisque arcu libero rutrum ac lobortis vel dapibus at diam nam tristique tortor
+Span,7.51,TRUE,Germany,nulla eget eros elementum pellentesque quisque porta volutpat erat quisque erat eros viverra eget congue eget semper
+Zathin,0.73,TRUE,France,quam suspendisse potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum aliquam non mauris morbi non lectus aliquam
+Alphazap,2.28,FALSE,France,metus aenean fermentum donec ut mauris eget massa tempor convallis nulla neque libero convallis eget eleifend luctus ultricies eu nibh
+Daltfresh,8.8.7,FALSE,France,vehicula consequat morbi a ipsum integer a nibh in quis justo maecenas
+Veribet,0.3.0,TRUE,France,turpis donec posuere metus vitae ipsum aliquam non mauris morbi non lectus aliquam sit amet diam in magna
+Greenlam,0.3,FALSE,France,id nulla ultrices aliquet maecenas leo odio condimentum id luctus nec
+Duobam,9.7.0,TRUE,France,mi nulla ac enim in tempor turpis nec euismod scelerisque quam turpis adipiscing lorem vitae
+Cookley,4.3,FALSE,United Kingdom,viverra diam vitae quam suspendisse potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum
+Ronstring,0.68,TRUE,France,velit vivamus vel nulla eget eros elementum pellentesque quisque porta volutpat erat quisque erat
+It,4.4.9,TRUE,Germany,posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat dui nec nisi
+Treeflex,0.17,TRUE,France,felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet
+Span,3.1.7,TRUE,France,nisl duis ac nibh fusce lacus purus aliquet at feugiat non pretium quis lectus suspendisse potenti
+Rank,0.91,TRUE,United Kingdom,diam id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed augue aliquam erat volutpat in congue etiam
+Stronghold,0.7.9,TRUE,France,praesent lectus vestibulum quam sapien varius ut blandit non interdum in ante vestibulum ante ipsum primis in faucibus orci luctus
+Flowdesk,0.2.2,TRUE,United Kingdom,curae duis faucibus accumsan odio curabitur convallis duis consequat dui nec nisi volutpat eleifend donec ut dolor morbi vel lectus
+Zathin,3.6.9,TRUE,France,ligula nec sem duis aliquam convallis nunc proin at turpis a pede posuere nonummy integer non velit donec
+Span,1.2.3,TRUE,France,mauris enim leo rhoncus sed vestibulum sit amet cursus id turpis integer aliquet massa id lobortis convallis tortor risus
+Voyatouch,0.3.3,FALSE,France,donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis sapien
+Asoka,6.74,FALSE,France,tempus vivamus in felis eu sapien cursus vestibulum proin eu mi nulla
+Lotstring,0.8.7,TRUE,France,justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas leo odio
+Matsoft,4.79,FALSE,France,sit amet eleifend pede libero quis orci nullam molestie nibh in lectus pellentesque at nulla suspendisse potenti cras in purus
+Wrapsafe,3.87,TRUE,France,integer ac leo pellentesque ultrices mattis odio donec vitae nisi nam ultrices
+Zathin,0.9.3,FALSE,France,sed nisl nunc rhoncus dui vel sem sed sagittis nam congue risus semper porta volutpat quam
+Otcom,1.43,FALSE,France,iaculis justo in hac habitasse platea dictumst etiam faucibus cursus urna ut
+Sonsing,9.8.7,FALSE,France,consequat lectus in est risus auctor sed tristique in tempus sit
+Konklab,8.05,FALSE,France,lacinia nisi venenatis tristique fusce congue diam id ornare imperdiet sapien urna pretium nisl
+Trippledex,0.9.7,TRUE,France,justo lacinia eget tincidunt eget tempus vel pede morbi porttitor lorem id ligula suspendisse ornare consequat lectus in est risus
+Kanlam,7.9,TRUE,France,enim in tempor turpis nec euismod scelerisque quam turpis adipiscing lorem vitae
+Gembucket,0.65,TRUE,France,nisl nunc nisl duis bibendum felis sed interdum venenatis turpis enim
+Y-find,7.98,TRUE,France,quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit amet cursus id turpis integer aliquet massa id lobortis
+Otcom,4.1.6,TRUE,United Kingdom,a libero nam dui proin leo odio porttitor id consequat in consequat ut nulla
+Stringtough,9.3,FALSE,France,a feugiat et eros vestibulum ac est lacinia nisi venenatis
+Greenlam,9.4.5,FALSE,France,arcu libero rutrum ac lobortis vel dapibus at diam nam tristique
+Treeflex,9.5.4,TRUE,France,dui vel nisl duis ac nibh fusce lacus purus aliquet at feugiat non pretium quis lectus suspendisse
+Sonair,5.8,FALSE,Germany,lacus at velit vivamus vel nulla eget eros elementum pellentesque quisque
+Pannier,4.43,TRUE,Germany,malesuada in imperdiet et commodo vulputate justo in blandit ultrices enim lorem ipsum dolor sit amet consectetuer
+Transcof,9.1.5,FALSE,France,nulla suspendisse potenti cras in purus eu magna vulputate luctus cum sociis
+Y-find,0.97,TRUE,France,enim leo rhoncus sed vestibulum sit amet cursus id turpis integer aliquet massa id
+Subin,9.5,TRUE,France,sapien quis libero nullam sit amet turpis elementum ligula vehicula consequat morbi a ipsum integer a
+Gembucket,0.87,FALSE,France,in blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum
+Veribet,3.8.1,TRUE,France,vitae consectetuer eget rutrum at lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed
+Namfix,6.4.0,TRUE,France,eleifend donec ut dolor morbi vel lectus in quam fringilla rhoncus mauris
+Overhold,0.2,TRUE,France,a feugiat et eros vestibulum ac est lacinia nisi venenatis tristique fusce congue diam id ornare imperdiet
+Lotstring,4.1,FALSE,France,in imperdiet et commodo vulputate justo in blandit ultrices enim lorem
+Namfix,6.04,FALSE,Germany,lacus at turpis donec posuere metus vitae ipsum aliquam non mauris morbi non lectus aliquam
+Transcof,0.9.6,FALSE,France,nibh fusce lacus purus aliquet at feugiat non pretium quis lectus suspendisse potenti in eleifend
+Regrant,0.6.3,TRUE,France,sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed
+Span,1.5,TRUE,United Kingdom,ut odio cras mi pede malesuada in imperdiet et commodo
+Hatity,0.1.2,FALSE,France,turpis sed ante vivamus tortor duis mattis egestas metus aenean fermentum donec ut mauris eget massa tempor
+Holdlamis,2.91,FALSE,France,neque libero convallis eget eleifend luctus ultricies eu nibh quisque
+Asoka,0.37,TRUE,France,pellentesque eget nunc donec quis orci eget orci vehicula condimentum curabitur in libero ut massa volutpat
+Sub-Ex,2,FALSE,France,varius ut blandit non interdum in ante vestibulum ante ipsum
+Keylex,6.4.5,TRUE,France,aenean lectus pellentesque eget nunc donec quis orci eget orci vehicula condimentum curabitur in libero ut massa volutpat convallis morbi
+Latlux,0.1.4,TRUE,France,in porttitor pede justo eu massa donec dapibus duis at velit eu est congue elementum in hac
+Lotlux,2.21,FALSE,France,diam vitae quam suspendisse potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum aliquam non mauris
+Voltsillam,4.5.3,TRUE,France,rutrum neque aenean auctor gravida sem praesent id massa id nisl venenatis lacinia aenean sit amet justo morbi ut odio
+Prodder,1.6.7,TRUE,France,nec sem duis aliquam convallis nunc proin at turpis a pede posuere nonummy integer non velit donec diam neque
+Tampflex,0.5,TRUE,France,vel enim sit amet nunc viverra dapibus nulla suscipit ligula
+Stim,0.51,TRUE,France,posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat dui nec nisi volutpat eleifend donec ut dolor
+Opela,5.87,TRUE,France,sapien ut nunc vestibulum ante ipsum primis in faucibus orci
+Voyatouch,3.7,TRUE,France,quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum
+Trippledex,0.9.7,FALSE,United Kingdom,vel sem sed sagittis nam congue risus semper porta volutpat
+Quo Lux,0.47,FALSE,United Kingdom,vestibulum sed magna at nunc commodo placerat praesent blandit nam
+Treeflex,9.6.4,FALSE,France,quam suspendisse potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum aliquam non
+Vagram,2.0.6,TRUE,France,velit eu est congue elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam
+Flexidy,4.8,FALSE,France,non sodales sed tincidunt eu felis fusce posuere felis sed lacus morbi sem mauris laoreet
+Domainer,8.6.9,TRUE,France,mauris sit amet eros suspendisse accumsan tortor quis turpis sed ante vivamus tortor duis mattis egestas metus aenean fermentum donec
+Bytecard,7.57,TRUE,France,sapien arcu sed augue aliquam erat volutpat in congue etiam justo etiam pretium iaculis justo
+Sonsing,0.5.1,TRUE,France,parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum
+Zontrax,1.5,TRUE,France,malesuada in imperdiet et commodo vulputate justo in blandit ultrices enim lorem ipsum dolor sit amet consectetuer
+Tampflex,6.36,TRUE,Germany,vel nisl duis ac nibh fusce lacus purus aliquet at feugiat non pretium quis lectus
+Bigtax,0.92,FALSE,France,nulla suspendisse potenti cras in purus eu magna vulputate luctus cum sociis natoque penatibus et magnis dis
+Aerified,6.2,TRUE,France,posuere nonummy integer non velit donec diam neque vestibulum eget vulputate ut ultrices vel augue
+It,2.23,TRUE,France,quisque arcu libero rutrum ac lobortis vel dapibus at diam nam tristique
+Voltsillam,5.43,FALSE,France,sed interdum venenatis turpis enim blandit mi in porttitor pede justo eu massa donec dapibus duis at
+Duobam,1.57,TRUE,France,nisi venenatis tristique fusce congue diam id ornare imperdiet sapien urna
+Tresom,6.3,FALSE,France,id lobortis convallis tortor risus dapibus augue vel accumsan tellus
+Sonair,5.45,TRUE,France,sit amet erat nulla tempus vivamus in felis eu sapien cursus vestibulum proin eu mi nulla ac enim
+Rank,0.2.6,TRUE,Germany,vivamus metus arcu adipiscing molestie hendrerit at vulputate vitae nisl aenean lectus pellentesque
+Voyatouch,0.8.8,FALSE,France,nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis
+Transcof,4.56,TRUE,France,eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit
+Asoka,0.1.9,TRUE,United Kingdom,eget eleifend luctus ultricies eu nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in
+Cookley,1.1,FALSE,France,potenti cras in purus eu magna vulputate luctus cum sociis natoque penatibus et magnis dis parturient montes nascetur
+Viva,2.33,TRUE,Germany,volutpat quam pede lobortis ligula sit amet eleifend pede libero quis orci nullam molestie nibh in lectus
+Domainer,6.6.3,TRUE,France,donec odio justo sollicitudin ut suscipit a feugiat et eros vestibulum ac est lacinia nisi venenatis tristique fusce congue diam
+Greenlam,9.7,FALSE,France,primis in faucibus orci luctus et ultrices posuere cubilia curae duis faucibus
+Domainer,5.86,TRUE,France,mi integer ac neque duis bibendum morbi non quam nec dui luctus rutrum nulla tellus in sagittis dui
+Cardguard,1.7,TRUE,United Kingdom,lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque ultrices phasellus id sapien
+Subin,0.7.6,FALSE,France,ut mauris eget massa tempor convallis nulla neque libero convallis eget eleifend
+Bitwolf,0.2.8,FALSE,France,ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae duis
+Zontrax,2.2,FALSE,France,proin leo odio porttitor id consequat in consequat ut nulla sed accumsan felis ut
+Sonair,1.27,FALSE,Germany,nulla tempus vivamus in felis eu sapien cursus vestibulum proin eu mi nulla
+Sub-Ex,3.83,FALSE,France,nec dui luctus rutrum nulla tellus in sagittis dui vel nisl duis ac nibh fusce lacus
+Fix San,8.55,FALSE,France,luctus ultricies eu nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in
+Bigtax,0.5.5,FALSE,France,faucibus accumsan odio curabitur convallis duis consequat dui nec nisi volutpat eleifend
+Rank,7.5.1,FALSE,France,cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit
+Fintone,4.46,FALSE,France,et magnis dis parturient montes nascetur ridiculus mus etiam vel augue
+Fix San,2.6,TRUE,France,porta volutpat erat quisque erat eros viverra eget congue eget semper rutrum nulla nunc purus phasellus in felis
+Fintone,3.9,TRUE,Germany,rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed sagittis nam congue risus semper porta volutpat quam
+Kanlam,1.0.1,TRUE,France,augue luctus tincidunt nulla mollis molestie lorem quisque ut erat
+Namfix,8.2,FALSE,France,et commodo vulputate justo in blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris
+Lotlux,1.68,FALSE,France,ac lobortis vel dapibus at diam nam tristique tortor eu
+Home Ing,0.84,FALSE,France,sapien urna pretium nisl ut volutpat sapien arcu sed augue
+Tresom,7.87,TRUE,France,pretium quis lectus suspendisse potenti in eleifend quam a odio in hac habitasse platea dictumst maecenas ut massa quis augue
+Cookley,6.51,FALSE,France,cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus
+Zoolab,9.88,FALSE,France,rutrum nulla tellus in sagittis dui vel nisl duis ac nibh fusce lacus purus aliquet at feugiat non pretium quis
+Mat Lam Tam,5.5,TRUE,France,augue vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id massa id nisl venenatis lacinia
+Asoka,0.59,TRUE,France,sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed
+Stringtough,7.6,FALSE,Germany,nibh fusce lacus purus aliquet at feugiat non pretium quis lectus
+Quo Lux,0.2.9,TRUE,France,amet sem fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum venenatis turpis enim blandit mi in
+Quo Lux,8.1,FALSE,France,pede justo lacinia eget tincidunt eget tempus vel pede morbi porttitor lorem id ligula suspendisse ornare
+Bigtax,5.3.0,FALSE,France,imperdiet nullam orci pede venenatis non sodales sed tincidunt eu
+Subin,3.4.3,FALSE,France,enim sit amet nunc viverra dapibus nulla suscipit ligula in lacus
+Zamit,1.3,FALSE,France,non ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at vulputate
+Pannier,0.88,TRUE,France,id lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi eu
+Tin,3.8.6,TRUE,France,quis tortor id nulla ultrices aliquet maecenas leo odio condimentum
+Zontrax,0.23,TRUE,France,justo nec condimentum neque sapien placerat ante nulla justo aliquam quis turpis
+Stronghold,9.19,FALSE,France,ante vivamus tortor duis mattis egestas metus aenean fermentum donec ut mauris eget massa tempor convallis nulla neque libero convallis
+Cardify,0.8.5,TRUE,France,donec diam neque vestibulum eget vulputate ut ultrices vel augue
+Alphazap,0.1.5,FALSE,France,magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien
+Redhold,2.3,TRUE,France,sit amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque ultrices phasellus id sapien in sapien
+Tempsoft,6,TRUE,France,porttitor id consequat in consequat ut nulla sed accumsan felis ut at dolor quis odio
+Regrant,4.29,FALSE,United Kingdom,mattis odio donec vitae nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla elit
+Biodex,0.2.3,FALSE,France,integer pede justo lacinia eget tincidunt eget tempus vel pede morbi porttitor lorem id ligula suspendisse ornare consequat
+Duobam,7.6.1,FALSE,France,fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum venenatis
+Andalax,0.35,TRUE,France,vivamus vel nulla eget eros elementum pellentesque quisque porta volutpat erat quisque erat eros viverra eget congue
+Alpha,6.03,FALSE,France,tristique in tempus sit amet sem fusce consequat nulla nisl nunc nisl
+Opela,6.4,TRUE,France,sit amet eleifend pede libero quis orci nullam molestie nibh in lectus pellentesque at nulla
+Stringtough,0.7.1,FALSE,France,pellentesque volutpat dui maecenas tristique est et tempus semper est quam pharetra magna ac consequat metus sapien
+It,1,TRUE,France,in purus eu magna vulputate luctus cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus
+Greenlam,7.8,TRUE,France,augue vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae donec pharetra
+Fintone,3.0.5,TRUE,Germany,elementum nullam varius nulla facilisi cras non velit nec nisi vulputate
+Span,8.9,TRUE,France,neque duis bibendum morbi non quam nec dui luctus rutrum nulla
+Alpha,0.5.8,FALSE,France,eleifend luctus ultricies eu nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum
+Namfix,2.9.6,TRUE,France,sapien varius ut blandit non interdum in ante vestibulum ante
+Andalax,0.57,TRUE,Germany,sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem
+Tresom,0.3.3,TRUE,France,ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia
+Tin,6.37,FALSE,United Kingdom,eu magna vulputate luctus cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien
+Tempsoft,9.9.6,FALSE,Germany,imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed augue aliquam erat volutpat in congue etiam justo
+Andalax,1.5,FALSE,France,nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget eros elementum pellentesque quisque porta
+Transcof,4.9,TRUE,France,elit proin risus praesent lectus vestibulum quam sapien varius ut blandit non interdum in ante
+Tempsoft,0.19,FALSE,France,mauris lacinia sapien quis libero nullam sit amet turpis elementum ligula vehicula consequat morbi a ipsum integer a nibh in
+Zaam-Dox,0.8.5,TRUE,France,odio consequat varius integer ac leo pellentesque ultrices mattis odio donec vitae nisi
+Duobam,0.2.9,FALSE,France,natoque penatibus et magnis dis parturient montes nascetur ridiculus mus vivamus
+Alphazap,0.8.2,FALSE,France,augue aliquam erat volutpat in congue etiam justo etiam pretium iaculis justo in hac habitasse
+Regrant,6.7.4,FALSE,France,enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum
+Zontrax,4.07,TRUE,France,est congue elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo
+Y-find,4,TRUE,France,nullam molestie nibh in lectus pellentesque at nulla suspendisse potenti cras in purus eu magna vulputate luctus cum sociis natoque
+Konklux,3.1.0,TRUE,France,nec condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros
+Stronghold,0.3.9,TRUE,France,libero nullam sit amet turpis elementum ligula vehicula consequat morbi a ipsum integer a nibh in quis justo maecenas rhoncus
+Fix San,0.68,TRUE,France,augue vel accumsan tellus nisi eu orci mauris lacinia sapien quis
+Holdlamis,0.6,FALSE,France,morbi quis tortor id nulla ultrices aliquet maecenas leo odio condimentum id luctus nec molestie
+Job,0.4.8,TRUE,France,pellentesque eget nunc donec quis orci eget orci vehicula condimentum curabitur in libero ut massa volutpat convallis morbi odio
+It,1.99,FALSE,France,nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit
+Viva,0.49,TRUE,France,nunc donec quis orci eget orci vehicula condimentum curabitur in libero
+Transcof,5.0.7,TRUE,France,sit amet justo morbi ut odio cras mi pede malesuada in imperdiet et commodo vulputate justo in
+Flexidy,4.15,TRUE,France,magna at nunc commodo placerat praesent blandit nam nulla integer pede justo lacinia eget tincidunt eget tempus vel pede
+Overhold,0.66,TRUE,France,nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis sed ante
+Opela,0.8.5,TRUE,France,mattis pulvinar nulla pede ullamcorper augue a suscipit nulla elit ac nulla sed vel enim sit amet nunc viverra
+Zamit,0.49,FALSE,France,aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante vel ipsum praesent blandit
+Veribet,0.3.7,FALSE,Germany,velit eu est congue elementum in hac habitasse platea dictumst morbi vestibulum velit
+Tres-Zap,0.2.1,FALSE,France,ut blandit non interdum in ante vestibulum ante ipsum primis
+Fixflex,5.6,TRUE,France,parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus et magnis dis parturient montes
+Sonair,2.91,FALSE,France,vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id massa
+Hatity,0.2,TRUE,France,lacinia aenean sit amet justo morbi ut odio cras mi pede malesuada in imperdiet et commodo vulputate
+Alphazap,5.7,TRUE,France,in felis donec semper sapien a libero nam dui proin leo odio
+Redhold,0.17,FALSE,France,facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget eros elementum
+Cookley,7.82,FALSE,France,cursus id turpis integer aliquet massa id lobortis convallis tortor
+Home Ing,4.45,FALSE,France,nonummy integer non velit donec diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante
+Fintone,6.3.0,FALSE,France,tristique est et tempus semper est quam pharetra magna ac consequat metus sapien ut nunc vestibulum ante
+Transcof,5.56,FALSE,France,lorem ipsum dolor sit amet consectetuer adipiscing elit proin risus praesent lectus vestibulum quam sapien varius ut blandit non
+Pannier,0.8.1,FALSE,France,dolor morbi vel lectus in quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit amet
+Lotstring,5.5,FALSE,France,nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla elit ac nulla sed
+Flexidy,0.9.7,FALSE,France,enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque ultrices phasellus
+Temp,9.1,FALSE,France,elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis
+Prodder,2.16,TRUE,France,duis bibendum morbi non quam nec dui luctus rutrum nulla tellus in sagittis dui vel nisl duis ac nibh fusce
+Veribet,0.27,TRUE,France,volutpat in congue etiam justo etiam pretium iaculis justo in hac habitasse platea dictumst
+Tempsoft,3.1.0,FALSE,France,sodales sed tincidunt eu felis fusce posuere felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl
+Lotstring,0.65,TRUE,France,sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl
+Asoka,0.6.5,TRUE,France,luctus et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor
+Holdlamis,7.8,FALSE,France,est lacinia nisi venenatis tristique fusce congue diam id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed
+Mat Lam Tam,3.88,TRUE,Germany,amet sem fusce consequat nulla nisl nunc nisl duis bibendum felis
+Zathin,4.8.9,TRUE,Germany,et tempus semper est quam pharetra magna ac consequat metus sapien ut nunc vestibulum ante ipsum primis
+Tin,0.44,FALSE,France,adipiscing elit proin interdum mauris non ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus metus arcu
+Vagram,6.4.1,TRUE,France,volutpat sapien arcu sed augue aliquam erat volutpat in congue etiam justo etiam pretium iaculis
+Tres-Zap,5.41,TRUE,France,sed tincidunt eu felis fusce posuere felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed
+Asoka,8.9,FALSE,France,felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed
+Ventosanzap,0.91,FALSE,France,sapien sapien non mi integer ac neque duis bibendum morbi non quam nec
+Bytecard,0.82,TRUE,France,sapien sapien non mi integer ac neque duis bibendum morbi non quam nec dui luctus
+Keylex,0.39,FALSE,France,luctus et ultrices posuere cubilia curae nulla dapibus dolor vel est donec odio justo sollicitudin ut suscipit a feugiat et
+Voltsillam,0.36,FALSE,France,maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet
+Konklab,0.9.9,TRUE,France,non lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt
+Bitwolf,0.46,TRUE,France,posuere metus vitae ipsum aliquam non mauris morbi non lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci
+Cardify,5.5,FALSE,France,ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae
+Bitwolf,0.91,FALSE,France,sit amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque ultrices phasellus id sapien in sapien iaculis
+Ventosanzap,2.9.0,TRUE,France,adipiscing molestie hendrerit at vulputate vitae nisl aenean lectus pellentesque eget
+Alphazap,7.5.2,TRUE,France,quisque arcu libero rutrum ac lobortis vel dapibus at diam nam tristique tortor eu pede
+Stronghold,6.4,TRUE,France,non mi integer ac neque duis bibendum morbi non quam
+Transcof,2.06,TRUE,France,rutrum rutrum neque aenean auctor gravida sem praesent id massa id nisl
+Alphazap,0.76,TRUE,France,tristique fusce congue diam id ornare imperdiet sapien urna pretium nisl
+Tampflex,7.8,TRUE,Germany,turpis enim blandit mi in porttitor pede justo eu massa donec dapibus duis
+Latlux,2.8,TRUE,France,vel accumsan tellus nisi eu orci mauris lacinia sapien quis libero nullam
+Biodex,0.24,TRUE,France,potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum
