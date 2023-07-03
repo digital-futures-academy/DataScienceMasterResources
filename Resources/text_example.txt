@@ -1,0 +1,7 @@
+This is an example text file.
+It contains multiple lines of text.
+Each line represents a separate sentence.
+The purpose of this file is to serve as an example.
+You can create and manipulate text files using Python.
+Text files are commonly used for storing textual data.
+They are easy to read and write with Python.
